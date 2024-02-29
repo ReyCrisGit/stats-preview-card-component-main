@@ -33,7 +33,7 @@ body {
     overflow: hidden;
     background-color: var(--Dark-desaturated-blue-card-background);
     border-radius: 1rem;
-    max-width: 550px;
+    max-width: 480px;
 }
 .container_img {
     width: 100%;
